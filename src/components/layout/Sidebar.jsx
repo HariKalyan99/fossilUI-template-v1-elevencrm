@@ -189,7 +189,7 @@ export default function Sidebar() {
             <div className="mt-2 px-1 text-[11px] text-muted-foreground normal-case tracking-normal">
               Built by{" "}
               <a
-                href="https://fossilui.space"
+                href="https://fossilui.buzz"
                 target="_blank"
                 rel="noreferrer"
                 className="font-medium text-foreground hover:text-foreground/80"
